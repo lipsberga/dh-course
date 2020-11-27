@@ -2,10 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Humanities</title>
-    <link>https://example.com/</link>
+    <link>https://lipsberga.github.io/dh-course/</link>
     <description>Recent content on Digital Humanities</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 27 Nov 2020 22:47:23 +0200</lastBuildDate><atom:link href="https://lipsberga.github.io/dh-course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Title</title>
+      <link>https://lipsberga.github.io/dh-course/posts/post-title/</link>
+      <pubDate>Fri, 27 Nov 2020 22:47:23 +0200</pubDate>
+      
+      <guid>https://lipsberga.github.io/dh-course/posts/post-title/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://lipsberga.github.io/dh-course/posts/my-first-post/</link>
+      <pubDate>Fri, 27 Nov 2020 22:39:53 +0200</pubDate>
+      
+      <guid>https://lipsberga.github.io/dh-course/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Page Title</title>
+      <link>https://lipsberga.github.io/dh-course/page-title/</link>
+      <pubDate>Fri, 27 Nov 2020 22:23:54 +0200</pubDate>
+      
+      <guid>https://lipsberga.github.io/dh-course/page-title/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

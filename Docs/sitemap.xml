@@ -3,11 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://lipsberga.github.io/dh-course/</loc>
+    <lastmod>2020-11-27T22:47:23+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://lipsberga.github.io/dh-course/posts/post-title/</loc>
+    <lastmod>2020-11-27T22:47:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/dh-course/posts/</loc>
+    <lastmod>2020-11-27T22:47:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/dh-course/tags/</loc>
+    <lastmod>2020-11-27T22:47:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/dh-course/tags/untagged/</loc>
+    <lastmod>2020-11-27T22:47:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/dh-course/posts/my-first-post/</loc>
+    <lastmod>2020-11-27T22:39:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lipsberga.github.io/dh-course/page-title/</loc>
+    <lastmod>2020-11-27T22:23:54+02:00</lastmod>
   </url>
   
 </urlset>
